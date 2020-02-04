@@ -1,3 +1,17 @@
+'''
+As a young boy growing up in the African Savanna, Joe heard the drums echoing
+one night, so he went for a walk.
+He stopped an old man along the way, hoping to find som long forgotten words
+or ancient melodies.
+The old man simply turned to him.
+He knew he had to hurry; it was waiting there for him.
+As he ran back home it began to rain.
+Thirsty from his trip, Joe blessed the rains down in Africa, and took
+the time to do the things he never had.
+Oh yeah.
+'''
+
+
 from django.db import models
 
 # Create your models here.
